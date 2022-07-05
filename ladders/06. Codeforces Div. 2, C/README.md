@@ -11,7 +11,7 @@
 |<ul><li>- [x] Done</li></ul>|4|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|5|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|6|[Table Decorations](http://codeforces.com/problemset/problem/478/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|7|[Beautiful Sets of Points](http://codeforces.com/problemset/problem/268/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|7|[Beautiful Sets of Points](http://codeforces.com/problemset/problem/268/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|8|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|9|[Valera and Tubes ](http://codeforces.com/problemset/problem/441/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|10|[Palindrome Transformation](http://codeforces.com/problemset/problem/486/C)|Codeforces|4|
