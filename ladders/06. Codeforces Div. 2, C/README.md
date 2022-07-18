@@ -27,7 +27,7 @@
 |<ul><li>- [x] Done</li></ul>|20|[Bombs](http://codeforces.com/problemset/problem/350/C)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|21|[Pashmak and Buses](http://codeforces.com/problemset/problem/459/C)|Codeforces|5|
 |<ul><li>- [x] Done</li></ul>|22|[Little Elephant and Problem](http://codeforces.com/problemset/problem/220/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|23|[Maze](http://codeforces.com/problemset/problem/377/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|23|[Maze](http://codeforces.com/problemset/problem/377/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|24|[Ice Skating](http://codeforces.com/problemset/problem/217/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|25|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|26|[Bear and Prime Numbers](http://codeforces.com/problemset/problem/385/C)|Codeforces|5|
