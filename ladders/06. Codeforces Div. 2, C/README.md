@@ -36,7 +36,7 @@
 |<ul><li>- [x] Done</li></ul>|29|[Mashmokh and Numbers](http://codeforces.com/problemset/problem/414/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|30|[Ladder](http://codeforces.com/problemset/problem/279/C)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|31|[Escape from Stones](http://codeforces.com/problemset/problem/264/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|32|[Division into Teams](http://codeforces.com/problemset/problem/149/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|32|[Division into Teams](http://codeforces.com/problemset/problem/149/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|33|[Barcode](http://codeforces.com/problemset/problem/225/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|34|[Stripe](http://codeforces.com/problemset/problem/18/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|35|[Mafia](http://codeforces.com/problemset/problem/348/A)|Codeforces|4|
