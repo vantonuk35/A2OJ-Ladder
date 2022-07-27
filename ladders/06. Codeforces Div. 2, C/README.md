@@ -43,7 +43,7 @@
 |<ul><li>- [x] Done</li></ul>|36|[Cows and Sequence](http://codeforces.com/problemset/problem/283/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|37|[To Add or Not to Add](http://codeforces.com/problemset/problem/231/C)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|38|[Xor-tree](http://codeforces.com/problemset/problem/429/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|39|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|39|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|40|[Rational Resistance](http://codeforces.com/problemset/problem/343/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|41|[Points on Line](http://codeforces.com/problemset/problem/251/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|42|[No to Palindromes!](http://codeforces.com/problemset/problem/464/A)|Codeforces|4|
