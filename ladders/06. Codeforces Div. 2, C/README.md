@@ -51,7 +51,7 @@
 |<ul><li>- [ ] Done</li></ul>|44|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|45|[Quiz](http://codeforces.com/problemset/problem/337/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|46|[Replacement](http://codeforces.com/problemset/problem/135/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|47|[Vasya and Robot](http://codeforces.com/problemset/problem/354/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|47|[Vasya and Robot](http://codeforces.com/problemset/problem/354/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|48|[Captain Marmot](http://codeforces.com/problemset/problem/474/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|49|[Win or Freeze](http://codeforces.com/problemset/problem/150/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|50|[Matrix](http://codeforces.com/problemset/problem/364/A)|Codeforces|4|
