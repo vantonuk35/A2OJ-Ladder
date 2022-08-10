@@ -55,7 +55,7 @@
 |<ul><li>- [ ] Done</li></ul>|48|[Captain Marmot](http://codeforces.com/problemset/problem/474/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|49|[Win or Freeze](http://codeforces.com/problemset/problem/150/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|50|[Matrix](http://codeforces.com/problemset/problem/364/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|51|[Little Frog](http://codeforces.com/problemset/problem/53/C)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|51|[Little Frog](http://codeforces.com/problemset/problem/53/C)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|52|[Lucky Sum](http://codeforces.com/problemset/problem/121/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|53|[Fight the Monster](http://codeforces.com/problemset/problem/487/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|54|[Triangle](http://codeforces.com/problemset/problem/407/A)|Codeforces|4|
